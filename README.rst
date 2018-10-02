@@ -38,3 +38,4 @@ coala supports popular programming languages including **Python**, **C/C++**, **
 .. image:: https://graphs.waffle.io/coala/coala/throughput.svg
  :target: https://waffle.io/coala/coala/metrics/throughput
  :alt: 'Throughput Graph'
+# hi
